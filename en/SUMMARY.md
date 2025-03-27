@@ -84,7 +84,7 @@
 * [Designer](ten_framework/ten_manager/designer.md)
 * [Check-Graph](ten_framework/ten_manager/check_graph.md)
 
-## Tutorials
+<!-- ## Tutorials
 
 <!-- * [How to debug with logs](tutorials/how_to_debug_with_logs.md) -->
-* [How to run local AI model in Python extension](tutorials/how_to_run_local_model_in_python_extensions.md)
+* [How to run local AI model in Python extension](tutorials/how_to_run_local_model_in_python_extensions.md) -->
