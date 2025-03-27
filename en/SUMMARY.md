@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌟 Welcome to TEN](README.md)
+* [🌟 123 to TEN](README.md)
 * [Goal](vision/goal.md)
 * [Key Concepts](vision/key_concepts.md)
 * [Scenarios](vision/application_scenarios.md)
